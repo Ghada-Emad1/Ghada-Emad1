@@ -8,9 +8,9 @@ I have hands-on experience working with Linux, including system administration, 
 ## 📚 My ITI Learning Path
 At ITI, I have learned and worked on:
 - **Programming & Development**: C, C++, Java, JavaScript, PHP, Golang
-- **Web Technologies**: HTML, CSS, Bootstrap, Vue.js, React.js
-- **Database Management**: MySQL, Postgres, XML
-- **System Administration**: Linux, Red Hat, Bash, Apache
+- **Web Technologies**: HTML, CSS, Bootstrap, Vue.js, React.js , Nodejs
+- **Database Management**: MySQL, Postgres, XML, MongoDB
+- **System Administration**: Linux, Red Hat, Bash, Apache 
 - **Software Engineering**: OOP, Agile, Data Structures & Algorithms
 - **Networking**: Fundamentals & Administration
 - **Soft Skills** : High Impact , Communcation 
