@@ -1,30 +1,43 @@
-# Hi there! 👋 I'm Ghada Emad
+# Hi there! 👋 I'm Ghada Emad  
+![Profile Views](https://komarev.com/ghpvc/?username=Ghada-Emad1&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm currently attending ITI in the **Open Source track (9 months)**, where I'm gaining expertise in software development, system administration, and web technologies. My learning journey covers a wide range of topics, including programming, databases, networking, and DevOps.
+🎓 I'm a graduate of the **ITI Open Source 9-Month Diploma**, where I gained expertise in software development, system administration, and web technologies.  
+My learning journey covered a wide range of topics, including programming, databases, networking, and DevOps.
+
+---
 
 ## 🖥️ Experience with Linux
 I have hands-on experience working with Linux, including system administration, scripting, and managing servers.
 
+---
+
 ## 📚 My ITI Learning Path
-At ITI, I have learned and worked on:
+At ITI, I learned and worked on:
 - **Programming & Development**: C, C++, Java, JavaScript, PHP, Golang
-- **Web Technologies**: HTML, CSS, Bootstrap, Vue.js, React.js , Nodejs
-- **Database Management**: MySQL, Postgres, XML, MongoDB
+- **Web Technologies**: HTML, CSS, Bootstrap, Vue.js, React.js, Node.js
+- **Database Management**: MySQL, PostgreSQL, XML, MongoDB
 - **System Administration**: Linux, Red Hat, Bash, Apache 
 - **Software Engineering**: OOP, Agile, Data Structures & Algorithms
 - **Networking**: Fundamentals & Administration
-- **Soft Skills** : High Impact , Communcation 
+- **Soft Skills**: High Impact, Communication
+
+---
 
 ## 🚀 My Projects
 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Ghada-Emad1)**
 
+---
+
 ## 💬 Ask Me About
-React, Java , JavaScript
+React, Java, JavaScript
+
+---
 
 ## 📫 How to Reach Me
-📧 Email: ghadaaemad561@gmail.com  
-🔗 LinkedIn: [Ghada Emad](https://www.linkedin.com/in/ghada-emad1)
+📧 Email: **ghadaaemad561@gmail.com**  
+🔗 LinkedIn: **[Ghada Emad](https://www.linkedin.com/in/ghada-emad1)**
 
+---
 
 ## 🛠️ Languages and Tools  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -46,7 +59,6 @@ React, Java , JavaScript
 ---
 
 🚀 Passionate about Open Source and always eager to learn!
-
 
 <!--
 **Ghada-Emad1/Ghada-Emad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
