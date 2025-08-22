@@ -28,10 +28,7 @@ At ITI, I learned and worked on:
 
 ---
 
-## 💬 Ask Me About
-React, Java, JavaScript
 
----
 
 ## 📫 How to Reach Me
 📧 Email: **ghadaaemad561@gmail.com**  
