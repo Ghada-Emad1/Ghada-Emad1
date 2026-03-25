@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Ghada Emad  
-![Profile Views](https://komarev.com/ghpvc/?username=Ghada-Emad1&label=Profile%20views&color=0e75b6&style=flat)
 
 🎓 I'm a graduate of the **ITI Open Source 9-Month Diploma**, where I gained expertise in software development, system administration, and web technologies.  
 My learning journey covered a wide range of topics, including programming, databases, networking, and DevOps.
