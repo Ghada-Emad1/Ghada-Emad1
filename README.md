@@ -6,7 +6,8 @@ I'm a Full-Stack Developer with experience in **Java, Java Servlets, Angular, Ty
 
 I'm currently focusing on strengthening my backend engineering skills with **Spring Boot, JPA/Hibernate, REST APIs, and advanced Spring Security**, while expanding my knowledge of **Microservices and System Design**.
 
-### 🛠️ Tech Stack
+---
+### Tech Stack
 
 **Languages:**
 Java • JavaScript • TypeScript • SQL • HTML • CSS
@@ -23,13 +24,12 @@ PostgreSQL • MySQL
 **Tools:**
 Git • GitHub • Maven • Docker • Postman
 
-### 🌱 Currently Learning
+###  Currently Learning
 
-* 🔐 Advanced Spring Security
-* 🧩 Microservices Architecture
-* 🏗️ System Design & Scalable Systems
-* ☕ Advanced Java & Spring Boot
-* 📐 Design Patterns & Clean Code
+*  Advanced Spring Security
+*  Microservices Architecture
+*  System Design & Scalable Systems
+*  Advanced Java & Spring Boot
 
 ### 🎯 Goal
 
